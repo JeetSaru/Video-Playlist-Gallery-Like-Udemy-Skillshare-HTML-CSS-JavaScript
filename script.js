@@ -3,7 +3,7 @@
 👨🏻‍⚕️ By: Coding Design
 
 You can do whatever you want with the code. However if you love my content, you can subscribed my YouTube Channel
-🌎link: www.youtube.com/codingdesign2
+🌎link: www.youtube.com/codingdesign
 */
 
 const main_video = document.querySelector('.main-video video');
