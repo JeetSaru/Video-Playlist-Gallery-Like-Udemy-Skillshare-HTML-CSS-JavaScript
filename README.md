@@ -5,4 +5,4 @@
 Let's build responsive Video Playlist like Udemy and Skill Share. Video playlist gallery UI design is most found in educational websites. So, let's create video playlist together with html css &amp; vanilla javascript.
 
 > You can do whatever you want with the code. However if you love my content, you can **SUBSCRIBED** my YouTube Channel.
-🌎link: www.youtube.com/codingdesign2
+🌎link: www.youtube.com/codingdesign
